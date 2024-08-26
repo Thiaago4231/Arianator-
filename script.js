@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Quais são os desafios enfrentados na criação de tecnologias acessíveis e como podem ser superados?",
-    alternativas: [
-        {
-            texto:"Custos elevados",
+    enunciado: "Em qual cidade Ariana Grande nasceu?",
+    alternativas: [                                                                                                
+            {                
+            texto:"Boca Ratom, Flórida",                            
             afirmacao: "afirmação 1"
         },
         {
-        texto:"Conscientização e educação",
+        texto:"Califórnia",
         afirmacao: "afirmação 2"
         }
     ]
