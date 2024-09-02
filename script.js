@@ -6,14 +6,14 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
 {
-    enunciado: "Em qual cidade Ariana Grande nasceu?",
-    alternativas: [                                                                                                
-            {                
-            texto:"Boca Ratom, Flórida",                            
+    enunciado: "Em "Rain on Me", Ariana Grande fez um dueto com?",
+    alternativas: [
+        {
+            texto:"Lady Gaga",
             afirmacao: "afirmação 1"
         },
         {
-        texto:"Califórnia",
+        texto:"Beyoncé",
         afirmacao: "afirmação 2"
         }
     ]
